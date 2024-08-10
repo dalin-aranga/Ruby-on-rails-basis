@@ -1,2 +1,2 @@
-# Ruby-on-rails-basis
-Ruby  on rails basis
+# Ruby-On-rails-fundamentals-
+Ruby On rails fundamentals 
